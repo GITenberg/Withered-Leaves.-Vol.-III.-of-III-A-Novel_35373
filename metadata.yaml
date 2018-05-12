@@ -1,0 +1,33 @@
+_repo: Withered-Leaves.-Vol.-III.-of-III-A-Novel_35373
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ness, Bertha
+    gutenberg_agent_id: '37575'
+    url: http://www.gutenberg.org/2009/agents/37575
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gottschall, Rudolf von
+    alias: Von Gottschall, Rudolf
+    birthdate: 1823
+    deathdate: 1909
+    gutenberg_agent_id: '37635'
+    url: http://www.gutenberg.org/2009/agents/37635
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_von_Gottschall
+description: ''
+gutenberg_issued: '2011-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+title: 'Withered Leaves: A Novel. Vol. III. (of III)'
+url: http://www.gutenberg.org/ebooks/35373
